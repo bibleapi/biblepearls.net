@@ -8,8 +8,19 @@ Bible verse of the day
 yarn install
 ```
 
-#### Run
+#### Develop
 
 ```
 yarn start
 ```
+
+#### Build
+
+```
+yarn build
+```
+
+
+## Licence
+
+MIT (c) Ruslan Kazakov
