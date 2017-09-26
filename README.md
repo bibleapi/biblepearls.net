@@ -4,6 +4,8 @@
 
 Bible verse of the day
 
+[![Screenshot](./images/screenshot.png)](http://www.biblepearls.net)
+
 #### Install
 
 ```
